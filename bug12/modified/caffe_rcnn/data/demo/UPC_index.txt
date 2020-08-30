@@ -1,0 +1,481 @@
+List of products in the database, with UPC code
+
+1
+310119030486
+Bausch & Lomb Renu All in One Multi Purpose Solution
+
+2
+016000126121
+Chex Mix
+
+3
+016000166196
+Gardetto's Original Recipe
+
+4
+016000665903
+Honey Nut Cheerios (General Mills)
+
+5
+02209605
+Wrigleys Extra peppermint gum
+
+6
+02217206
+doublemint gum
+
+7
+02217400
+big red gum
+
+8
+323900008748
+Vicks DayQuil LiquiCaps
+
+9
+024100122615
+Cheez-It
+
+10
+03424102
+Hershey Milk Chocolate with Almonds
+
+11
+04002305
+Twix Cookie Bar
+
+12
+04010207
+Snickers
+
+13
+044600024509
+CLOROX ULTRA LIQUID REG
+
+14
+044600038025
+CLOROX 2 LIQUID 44 OZ   
+
+15
+052000338775
+Gatorade Lemon-Lime
+
+16
+077975022337
+SNYDER PRETZEL OLD TYME
+
+17
+792554102001
+POCKETCOMB
+
+18
+300450481030
+Motrin IB Ibuprofen Tablets USP
+
+19
+300810730884
+Neosporin Original
+
+20
+078907450372
+El Sabroso Salsitas Salsa Chips
+
+21
+00980734
+Tic Tac Wintergreen
+
+22
+012546300599
+DENTYNE ICE ARTIC CHILL
+
+23
+012546711500
+Certs Peppermint
+
+24
+312843101111
+Genuine BAYER Aspirin, tablets (325 mg)
+
+25
+070662010037
+Nissin Ramen Noodles - Chicken
+
+26
+019800201333
+26OZ BLUE WINDEX
+
+27
+024600010030
+Morton Salt, Iodized
+
+28
+025700003908
+Ziploc Sandwich Bags
+
+29
+325866105028
+Aleve Caplets
+
+30 
+03422900
+Kit Kat King Size
+
+31 
+03424801
+Reese's Pieces
+
+32 
+036000253900
+Kleenex Tissue
+
+33 
+036600813313
+Chap Stick Lip Balm
+
+34
+037000308041
+REGULAR 33OZ TIDE POWDER
+
+35 
+037000321286
+Pringles Sour Cream & Onion
+
+36 
+037000332213
+Pringles Pizza-licious
+
+37 
+04005108
+Starburst Original Fruit
+
+38 
+04016007
+Skittles (Original)
+
+39
+041100080226
+Claritin Allergy
+
+40
+041500007007
+French's Classic Yellow Mustard
+
+41 
+044600008899
+FORMULA 409
+
+42 
+070847811169
+Monster Energy Beverage
+
+43
+073390000110
+Mentos (Mint)
+
+44 
+077885710614
+Tapatio - Salsa Picante
+
+45
+079400500908
+Dove Anti-Perspirant/Deodorant Fresh Invisible Solid
+
+46 
+381370044307
+Band-Aid flexible fabric
+
+47 
+083078113131
+CARMEX EZ-ON APPLICATOR
+
+48 
+818094000024
+diet ROCKSTAR Energy Drink
+
+49 
+323900004238
+VICKS NYQUIL COUGH CHERRY 6 OZ  
+
+50 
+028000131708
+Nestle Crunch
+
+51
+028400048538
+Lay's Classic
+
+52 
+033200011309
+ARM + HAMMER BAKING SODA
+
+53 
+041244007523
+MARTINELLI APPLE JUICE
+
+54 
+049000036473
+Diet Coke with Lime
+
+55 
+04913207
+Sprite 12oz Can
+
+56 
+052000700473
+Propel Fitness Water
+
+57 
+073854009147
+AVIATOR POKER CARDS
+
+58
+076150430516
+Act II Butter Lover's Popcorn
+
+59
+078000082401
+Dr Pepper
+
+60
+300450182203
+Tylenol PM Gelcaps Extra Strength
+
+61
+611269101713
+Red Bull Sugarfree
+
+62
+041388850078
+Blistex "Silk & Shine" Lip gloss and sunscreen SPF 15
+
+63
+323900008717
+NYQUIL LQCAPS PSE FREE 12 CT 
+
+64
+00954259
+LINDOR CANDY
+
+65
+037466017631
+Lindt Excellence 70% Cocoa Dark Chocolate
+
+66
+042238301566
+Haribo Gold-Bears Gummi Candy
+
+67
+050255013003
+Ritter Sport White Chocolate with Whole Hazelnuts
+
+68
+070221011116
+TOBLERONE MILK CHOCOLATE
+
+69
+073621497207
+Manner Milk Chocolate Cream Filled Wafers
+
+70
+014100077121
+PEPPERIDGE FARM MILK CHOCOLATE MACADAMIA COOKIES
+
+71
+014100074724
+Pepperidge Farm Milano Cookies, Double Chocolate
+
+72
+300450449054
+Tylenol  Extra Strength Caplets
+
+73
+01218002
+Frappuccino Coffee
+
+74
+072350000115
+Yoo-Hoo Chocolate Drink
+
+75
+019582411104
+Bull's-Eye BBQ Sauce Original
+
+76
+03415900
+Symphony with almonds and toffee chips
+
+77
+044000048372
+Nabisco Nilla Wafers
+
+78
+017082007308
+BEEF JERKY
+
+79
+026200461724
+David Sunflower Seeds
+
+80
+027000390054
+Hunt's Tomato Sauce
+
+81
+036000013009
+kotex lightdays
+
+82
+037000426882
+Always thin pantiliners
+
+83
+04128504
+Liption Tea
+
+84
+044600016023
+Soft Scrub with Bleach Cleanser
+
+85
+046500016608
+RAID Flying Insect Killer
+
+86
+046500022517
+SHOUT LAUNDRY STAIN REMOVER  
+
+87
+047400240308
+Gillette Foamy Shaving Cream, Regular
+
+88
+051000134585
+Campbell's Tomato Soup - Microwavable bowl
+
+89
+353100186243
+Vivarin
+
+90
+064144043156
+Chef Boyardee Beef Ravioli
+
+91
+070907017036
+LIFESTYLES ULTRA SENSITIVE
+
+92
+075140707027
+Crystal Geyser Water
+
+93
+722252103109
+Luna Bar nutz chocolate
+
+94
+03881008
+KELL RAISIN BRAN 15 OZ 121459 
+
+95
+016000141551
+GM HNY NUT CHEERIOS CEREAL CUP 
+
+96
+301490039045
+Pepto-Bismol
+
+97
+301490039786
+PEPTO BISMOL CHERRY TAB 30 CT
+
+98
+011210000018
+Tabasco Brand Pepper Sauce
+
+99
+016500505860
+alka Seltzer Plus cold
+
+100
+017082890306
+Jack Links: Extreme Snack Stick
+
+101
+022600914501
+TROJAN ULTRA FIT CONDOMS  
+
+102
+022600930501
+Trojan-Enz lubricated condoms
+
+103
+035000553003
+colgate plus toothbrush
+
+104
+044000046880
+Nabisco Wheat Thins Crackers Original
+
+105
+01213104
+Mountain Dew, Single Bottle
+
+106
+042238472778
+GUMMI FROGS
+
+107
+044000008390
+Mini Chips Ahoy!
+
+108
+051500241288
+Jif Creamy Peanut Butter
+
+109
+046500000829
+Glade Potpourri Spray ,Powder Fresh ,9oz.
+
+110
+051000010315
+Campbells Cream of Chicken soup
+
+111
+051000038852
+CAMPBELL CHUNKY CLASSIC CHICKEN NOODLE
+
+112
+054400000092
+A-1 STEAK SAUCE
+
+113
+818094000017
+Rockstar Energy Drink
+
+114
+041771871499
+KODAK COLOR SLIDE 100 EB135-36 
+
+115
+028400035088
+Tostitos Scoops
+
+116
+050255230004
+RITTER CAPPUCCINO 100G 
+
+117
+028400041737
+Sour Cream & Onion Ruffles
+
+118
+076840400058
+Ben & Jerry's Ice Cream World's Best Vanilla
+
+119
+04422404
+Nabisco Flavor Crisps/Flavor Originals Snack Crackers Baked Vegetable Thins
+
+120
+070470003139
+Yoplait Yogurt Original Strawberry Banana 99% Fat Free S70

@@ -1,0 +1,7 @@
+theano
+numpy
+scipy
+librosa
+redis
+pyaudio
+flask
